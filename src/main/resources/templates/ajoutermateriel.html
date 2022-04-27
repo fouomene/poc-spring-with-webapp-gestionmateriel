@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>gesmatemprunt- Dashboard</title>
+
+    <th:block th:replace="fragments/_css.html::css"></th:block>
+
+</head>
+
+<body id="page-top">
+
+<!-- Page Wrapper -->
+<div id="wrapper">
+
+    <th:block th:replace="fragments/_sidebar.html::sidebar"></th:block>
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+        <!-- Main Content -->
+        <div id="content">
+
+            <th:block th:replace="fragments/_topbar.html::topbar"></th:block>
+
+            <!-- Begin Page Content -->
+            <div class="container-fluid">
+
+                <!-- Page Heading -->
+                <div class="d-sm-flex align-items-center justify-content-between mb-4 mr-auto ml-auto text-center">
+                    <h1 class="h3 mb-0 d-flex w-50 justify-content-between mr-auto font-weight-bold ml-auto text-gray-800 text-center">
+                        <a th:href="@{/listemateriels}" class="btn btn-primary"><i class="fa fa-arrow-left" aria-hidden="true"></i></a>
+                        <span>Ajouter Le Materiel</span>
+
+                    </h1>
+                </div>
+
+                <!-- Content Row -->
+                <div class="row justify-content-center align-items-center">
+                    <form  class="w-50" enctype="multipart/form-data"
+                           th:method="post"
+                           th:action="@{/enregistrermateriel}"
+                           th:object="${materielDTO}"
+                    >
+                        <div class="form-group">
+                            <label for="code">Code du materiel : </label>
+                            <input type="text" class="form-control"
+                                   id="code" aria-describedby="name"
+                                   name="reference"
+                                   th:field="*{reference}">
+                        </div>
+                        <div class="form-group">
+                            <label for="name">Nom du materiel : </label>
+                            <input type="text" class="form-control"
+                                   id="name" aria-describedby="name"
+                                   name="nom"
+                                   th:field="*{nom}">
+                        </div>
+                        <div class="form-group">
+                            <label for="date">Date d'aquisition : </label>
+                            <input type="date" class="form-control"
+                                   id="date" aria-describedby="name"
+                                   name="dateAcquisition"
+                                   th:field="*{dateAcquisition}"
+                            >
+                        </div>
+                        <div class="form-group">
+                            <label for="etat">Etat du materiel : </label>
+                            <select id="etat" class="form-control" name="etat"
+                                    th:field="*{etat}"
+                                     >
+                                <option value="Neuf">Neuf</option>
+                                <option value="En panne">En panne</option>
+                                <option value="En reparation">En reparation</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="description">Description du materiel : </label>
+                            <textarea class="form-control"
+                                   id="description" aria-describedby="description" rows="5"
+                                      name="description"
+                                      th:field="*{description}" >
+                            </textarea>
+                        </div>
+
+
+                        <div class="d-flex">
+                            <button type="submit" class="btn btn-primary w-50 btn-user">
+                                Enregistrer
+                            </button>
+                            <a href="#" class="btn btn-danger ml-2 w-50 btn-user">
+                                vider
+                            </a>
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+            <!-- /.container-fluid -->
+
+        </div>
+        <!-- End of Main Content -->
+
+        <th:block th:replace="fragments/_footer.html::footer"></th:block>
+
+    </div>
+    <!-- End of Content Wrapper -->
+
+</div>
+<!-- End of Page Wrapper -->
+
+<!-- Scroll to Top Button-->
+<a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+</a>
+
+<!-- Logout Modal-->
+<div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                <a class="btn btn-primary" href="login.html">Logout</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<th:block th:replace="fragments/_js.html::js"></th:block>
+
+</body>
+
+</html>
