@@ -1,5 +1,6 @@
 package com.isj.gestionmateriel.webapp.calcul;
 
+import com.isj.gestionmateriel.webapp.aop.Supervision;
 import org.springframework.stereotype.Component;
 
 import java.util.HashSet;
@@ -39,6 +40,7 @@ public class Calculator {
     public double divide(double a, double b) {
         return a / b;
     }
+
 
     public void longCalculation() {
         try {

@@ -1,6 +1,7 @@
 package com.isj.gestionmateriel.webapp.calcul;
 
 
+import com.isj.gestionmateriel.webapp.aop.Supervision;
 import com.isj.gestionmateriel.webapp.calcul.model.Calculation;
 import com.isj.gestionmateriel.webapp.calcul.model.CalculationModel;
 import com.isj.gestionmateriel.webapp.calcul.model.CalculationType;
@@ -31,6 +32,7 @@ public class CalculatorController {
 		return CALCULATOR_TEMPLATE; // cf. resources/templates/calculator.html
 	}
 
+	@Supervision(dureeMillis = 1000)
 	@PostMapping("/calculator")
 	public String calculate(@Valid Calculation calculation, BindingResult bindingResult, Model model) {
 
@@ -43,6 +45,13 @@ public class CalculatorController {
 		final CalculationModel response = calculatorService.calculate(calculationModel);
 
 		model.addAttribute("response", response);
+
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+
 		return CALCULATOR_TEMPLATE; // cf. resources/templates/calculator.html
 	}
 }
