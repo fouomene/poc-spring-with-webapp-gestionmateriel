@@ -93,15 +93,13 @@ If you have run out of energy or time for your project, put a note at the top of
 
 #####################################################################
 
-login: Tagouffo21(tagouffovanessa@gmail.com)
-nom complet: Massehe Tagouffo Vanessa
-description:-ouvrir le projet dans intellij
-                 -telecharger les dependances
-                 -se rendre dans le fichier application.properties
-                 -changer le port en mettant un port qui est ouvert sur notre machine 
-                  -ouvrir xampp ,demarrer apache et mySQL
-                -ouvrir PHPmyAdmin
-                 -creer une base de donnee avec le nom bdmateriel
-                -modifier le nom d'utilisateur et mot de passe de la BD dans le fichier application.properties 
-                -executer la class main
+login: khaki1999(rickkhaki@gmail.com)
+nom complet: Djomou Kenfack Rick Jorel
+description: -Importer le projet dans un IDE
+             -Télecharger les dépendances
+             -Aller dans "src/main/java/com/isj/gestionmateriel/webapp/"
+             -Aller dans "application-properties" et verifier si les ports sont disponibles aini que les ressources de 
+                l'application sont correctes
+             -Aller dans la classe "GestionMaterielApplication" et lancer l'application
+
 ################################################################################
