@@ -20,7 +20,7 @@ Veuillez suivre les instructions suivantes :
       c) Pour télécharger et installer la version MacOS, https://git-scm.com/download/mac.
     
       
-  2) Dans l'interpréteur de commande, utilisez la commande "cd <<nom_dossier>>" pour vous déplacer jusqu'au dossier "GestionMaterielWithSpringSecurity", votre chemin devrait se présenter de manière générale comme suit : "<<lettre_disque_local>>:\Users\<<nom_d'utilisateur>>\...\GestionMaterielWithSpringSecurity".
+  2) Dans l'interpréteur de commande Git, utilisez la commande "cd <<nom_dossier>>" pour vous déplacer jusqu'au dossier "GestionMaterielWithSpringSecurity", votre chemin devrait se présenter de manière générale comme suit : "<<lettre_disque_local>>:\Users\<<nom_d'utilisateur>>\...\GestionMaterielWithSpringSecurity".
   
   3) Une fois l'étape 2) achevée, exécutez la commande "mvnw.cmd", si vous recevez une erreur indiquant : "Error: JAVA_HOME not found in your environment. Please set the JAVA_HOME variable in your environment to match the location of your Java installation", alors exécutez la commande : "SET JAVA_HOME = <<(chemin vers le répertoire de votre JDK>>".
    
