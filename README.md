@@ -90,3 +90,18 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+#####################################################################
+
+login: Tagouffo21(tagouffovanessa@gmail.com)
+nom complet: Massehe Tagouffo Vanessa
+description:-ouvrir le projet dans intellij
+                 -telecharger les dependances
+                 -se rendre dans le fichier application.properties
+                 -changer le port en mettant un port qui est ouvert sur notre machine 
+                  -ouvrir xampp ,demarrer apache et mySQL
+                -ouvrir PHPmyAdmin
+                 -creer une base de donnee avec le nom bdmateriel
+                -modifier le nom d'utilisateur et mot de passe de la BD dans le fichier application.properties 
+                -executer la class main
+################################################################################
