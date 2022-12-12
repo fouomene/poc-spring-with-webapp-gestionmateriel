@@ -164,4 +164,11 @@ Nom Complet : belom jordan
 Email: jordan.belom@institutsaintjean.org
 
 ####################################################################################
+login : morganeangoc@gmail.com
+
+nom complet : Morgane Claudel Ango
+
+email : morganeangoc@gmail.com
+
+####################################################################################
 
