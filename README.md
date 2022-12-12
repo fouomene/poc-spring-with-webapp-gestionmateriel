@@ -165,3 +165,10 @@ Email: jordan.belom@institutsaintjean.org
 
 ####################################################################################
 
+Login : EmmanuelMDG+ma-contribution 
+
+Nom Complet : MINDONGO MBIA Emmanuel
+
+Email: mdg.m.emmanuel@gmail.com
+
+####################################################################################
