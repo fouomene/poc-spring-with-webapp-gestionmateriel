@@ -127,3 +127,7 @@ Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
+Login:jerry694(wafoaristide@gmail.com)
+Nom Complet: Wafo Kamgue Jerry Aristide
+
+####################################################################################
