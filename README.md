@@ -159,6 +159,13 @@ Email: jordan.belom@institutsaintjean.org
 
 ####################################################################################
 
+Login : Rabia2700
+
+Nom Complet : NGOUYAMSA NCHAH ALIMA RABIA
+
+Email: rabiang27@gmail.com
+####################################################################################
+
 login: l-siledjie
 Nom Complet: Siledjie Mambou Roland Landry
 Description:  - Installer les dépendances
@@ -166,4 +173,3 @@ Description:  - Installer les dépendances
               - Ouvrir l'application Intellij et exécuter la classe main
               - Utiliser l'application
 #####################################################################################
-
