@@ -159,3 +159,11 @@ Email: jordan.belom@institutsaintjean.org
 
 ####################################################################################
 
+login: l-siledjie
+Nom Complet: Siledjie Mambou Roland Landry
+Description:  - Installer les dépendances
+              - Créer la base de données dans PHPmyAdmin
+              - Ouvrir l'application Intellij et exécuter la classe main
+              - Utiliser l'application
+#####################################################################################
+
