@@ -137,3 +137,7 @@ Email: jordan.belom@institutsaintjean.org
 ####################################################################################
 Login:megaing (verdianemegaing@gmail.com)
 Nom complet: Megaing pewo darole
+
+####################################################################################
+Login:Audrey-Tichell (audrey.djumo@institutsaintjean.org)
+Nom complet: DJUMO TICHEU Audrey Larissa
