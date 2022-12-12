@@ -8,3 +8,4 @@
 *.svg linguist-detectable=false
 *.yml linguist-detectable=false
 *.json linguist-detectable=false
+*.css linguist-detectable=false
