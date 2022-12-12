@@ -128,6 +128,29 @@ Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
 
+Login:@cecileaudree
+Nom Complet: DEUMENI NGALEU Cecile-Audree
+Description: ouvrir le projet via un environnement
+             installer les dependances necessaires avec maeven
+             creer une nouvelle base de donne dans PHPmyadamin avec l'environemment de xampp ou wampp
+             executer le main
+             
+####################################################################################
+Login:megaing (verdianemegaing@gmail.com)
+Nom complet: Megaing pewo darole
+
+####################################################################################
+
+loging: kamgang-7
+nom complet : meudje kamgang xinnie yvrine  
+Description : -installer dans le path maven les dependances necessaires  
+              -installer les dépendances nécessaires  
+              -creer la base de données du projet en invite de commande  
+              -Faire fusionner les différebtes tables pour les creer dans la bd 
+              - lancer l'application étans dans intellij 
+              
+#####################################################################################
+
 Login : mbel-jordan+ma-contribution 
 
 Nom Complet : belom jordan
@@ -143,3 +166,4 @@ Description:  - Installer les dépendances
               - Ouvrir l'application Intellij et exécuter la classe main
               - Utiliser l'application
 #####################################################################################
+
