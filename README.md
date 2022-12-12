@@ -128,12 +128,42 @@ Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
 
+Login:jerry694(wafoaristide@gmail.com)
+Nom Complet: Wafo Kamgue Jerry Aristide ING3 ISI
+
+####################################################################################
+
+Login:@cecileaudree
+Nom Complet: DEUMENI NGALEU Cecile-Audree
+Description: ouvrir le projet via un environnement
+             installer les dependances necessaires avec maeven
+             creer une nouvelle base de donne dans PHPmyadamin avec l'environemment de xampp ou wampp
+             executer le main
+             
+####################################################################################
+
+Login:megaing (verdianemegaing@gmail.com)
+Nom complet: Megaing pewo darole
+
+####################################################################################
+
+loging: kamgang-7
+nom complet : meudje kamgang xinnie yvrine  
+Description : -installer dans le path maven les dependances necessaires  
+              -installer les dépendances nécessaires  
+              -creer la base de données du projet en invite de commande  
+              -Faire fusionner les différebtes tables pour les creer dans la bd 
+              - lancer l'application étans dans intellij 
+              
+#####################################################################################
+
 Login : mbel-jordan+ma-contribution 
 
 Nom Complet : belom jordan
 
 Email: jordan.belom@institutsaintjean.org
 
+<<<<<<< HEAD
 ###################################################################################
 
 Login : ArnoldKouyem
@@ -152,3 +182,7 @@ description:-ouvrir le projet dans intellij
                 -executer la class main
 
 ####################################################################################
+=======
+####################################################################################
+
+>>>>>>> 2043be40f1b86adfe0de23b9db39306c53ea0f63
