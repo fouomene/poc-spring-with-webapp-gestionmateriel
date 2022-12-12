@@ -91,9 +91,36 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 
+=======
+#####################################################################
+
+login: Tagouffo21(tagouffovanessa@gmail.com)
+nom complet: Massehe Tagouffo Vanessa
+description:-ouvrir le projet dans intellij
+                 -telecharger les dependances
+                 -se rendre dans le fichier application.properties
+                 -changer le port en mettant un port qui est ouvert sur notre machine 
+                  -ouvrir xampp ,demarrer apache et mySQL
+                -ouvrir PHPmyAdmin
+                 -creer une base de donnee avec le nom bdmateriel
+                -modifier le nom d'utilisateur et mot de passe de la BD dans le fichier application.properties 
+                -executer la class main
+################################################################################
+
+Login : wilfried-djoum(wilfrieddjoum@gmail.com)
+
+Nom Complet : Djoum Nguemtchue Wilfried
+
+Description: installer dans le path maven - ensuite dans le projet , installer les dépendances nécessaires (lombock, spring mvc, tymeleaf) -creer la base de données du projet soit en invite de commande soit dans PHPmyAdmin -Faire merger les différebtes tables pour les creer dans la bd -enfin lancer l'application étans dans intellij soit en cliquant sur le boutton 'run' soit en invite de commande -Pour terminer : enjoy l'application de gestion de matériel
+
+
+#################################################################################
+
 login: GHEMNNINGAaron
 Nom complet: GHEMNING KOM AARON LAURENT
 Description: -installer les dépendances nécéssaires à l'aide de maven
              -Créer la base de donnée dans PHPmyAdmin à l'aide de XAMPP ou WAMPP
              - Ouvrir Intelij et exécuter la classe qui contient le mail
              -Utiliser l'application
+####################################################################################
+

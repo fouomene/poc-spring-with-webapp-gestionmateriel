@@ -1,0 +1,11 @@
+*.java linguist-detectable=true
+*.feature linguist-detectable=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.scss linguist-detectable=false
+*.less linguist-detectable=false
+*.svg linguist-detectable=false
+*.yml linguist-detectable=false
+*.json linguist-detectable=false
+*.css linguist-detectable=false
