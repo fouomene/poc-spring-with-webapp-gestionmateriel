@@ -134,4 +134,21 @@ Nom Complet : belom jordan
 
 Email: jordan.belom@institutsaintjean.org
 
+###################################################################################
+
+Login : ArnoldKouyem
+
+Nom Complet : Kouyem Arnold Beroni
+
+Email: arnoldberonik@gmail.com
+description:-ouvrir le projet dans intellij
+                 -telecharger les dependances
+                 -se rendre dans le fichier application.properties
+                 -changer le port en mettant un port qui est ouvert sur notre machine 
+                  -ouvrir xampp ,demarrer apache et mySQL
+                -ouvrir PHPmyAdmin
+                 -creer une base de donnee avec le nom bdmateriel
+                -modifier le nom d'utilisateur et mot de passe de la BD dans le fichier application.properties 
+                -executer la class main
+
 ####################################################################################
