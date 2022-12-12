@@ -127,6 +127,7 @@ Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
+
 Login:jerry694(wafoaristide@gmail.com)
 Nom Complet: Wafo Kamgue Jerry Aristide ING3 ISI
 
@@ -140,6 +141,7 @@ Description: ouvrir le projet via un environnement
              executer le main
              
 ####################################################################################
+
 Login:megaing (verdianemegaing@gmail.com)
 Nom complet: Megaing pewo darole
 
@@ -162,32 +164,4 @@ Nom Complet : belom jordan
 Email: jordan.belom@institutsaintjean.org
 
 ####################################################################################
-Login : linamessia (linamebouga@gmail.com)
 
-Nom Complet: MEBOUGA MESSIA Lina Jephtée
-=======
-Login: BenjaminTCHUETKA (benjamin.tchuetka@institutsaintjean.org)
-Nom complet: TCHUETKA YANKE Benjamin Rachid
-
-####################################################################################
-Login : Rabia2700
-
-Nom Complet : NGOUYAMSA NCHAH ALIMA RABIA
-
-Email: rabiang27@gmail.com
-####################################################################################
-
-login: l-siledjie
-Nom Complet: Siledjie Mambou Roland Landry
-Description:  - Installer les dépendances
-              - Créer la base de données dans PHPmyAdmin
-              - Ouvrir l'application Intellij et exécuter la classe main
-              - Utiliser l'application
-
-#####################################################################################
-
-login:ElinorTch(tchamoelii@gmail.com) nom complet : TCHAMO Elinor
-description : tout d'abord on ouvre le projet dans intellijIDEA - on ouvre xampp ou tout autre boite a outil et on demarre appache et mysql-
-              on ouvre phpMyAdmin - on cree la bd avec les informations presentes dans application.propperties - on execute la class main 
-              
-#####################################################################################
