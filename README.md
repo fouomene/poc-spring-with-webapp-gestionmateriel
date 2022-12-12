@@ -127,6 +127,12 @@ Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
+
+Login:megaing (verdianemegaing@gmail.com)
+Nom complet: Megaing pewo darole
+
+####################################################################################
+
 loging: kamgang-7
 nom complet : meudje kamgang xinnie yvrine  
 Description : -installer dans le path maven les dependances necessaires  
@@ -134,3 +140,14 @@ Description : -installer dans le path maven les dependances necessaires
               -creer la base de données du projet en invite de commande  
               -Faire fusionner les différebtes tables pour les creer dans la bd 
               - lancer l'application étans dans intellij 
+              
+#####################################################################################
+
+Login : mbel-jordan+ma-contribution 
+
+Nom Complet : belom jordan
+
+Email: jordan.belom@institutsaintjean.org
+
+####################################################################################
+
