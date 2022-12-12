@@ -115,5 +115,15 @@ Description: installer dans le path maven - ensuite dans le projet , installer l
 
 #################################################################################
 
+login: GHEMNNINGAaron
+Nom complet: GHEMNING KOM AARON LAURENT
+Description: -installer les dépendances nécéssaires à l'aide de maven
+             -Créer la base de donnée dans PHPmyAdmin à l'aide de XAMPP ou WAMPP
+             - Ouvrir Intelij et exécuter la classe qui contient le mail
+             -Utiliser l'application
+####################################################################################
+
 Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
+
+####################################################################################
