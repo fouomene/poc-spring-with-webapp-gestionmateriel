@@ -127,3 +127,10 @@ Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
+loging: kamgang-7
+nom complet : meudje kamgang xinnie yvrine  
+Description : -installer dans le path maven les dependances necessaires  
+              -installer les dépendances nécessaires  
+              -creer la base de données du projet en invite de commande  
+              -Faire fusionner les différebtes tables pour les creer dans la bd 
+              - lancer l'application étans dans intellij 
