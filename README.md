@@ -128,6 +128,6 @@ Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
 Login:jerry694(wafoaristide@gmail.com)
-Nom Complet: Wafo Kamgue Jerry Aristide
+Nom Complet: Wafo Kamgue Jerry Aristide ING3 ISI
 
 ####################################################################################
