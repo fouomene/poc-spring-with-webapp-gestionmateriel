@@ -172,4 +172,10 @@ Description:  - Installer les dépendances
               - Créer la base de données dans PHPmyAdmin
               - Ouvrir l'application Intellij et exécuter la classe main
               - Utiliser l'application
+
+#####################################################################################
+login:ElinorTch(tchamoelii@gmail.com) nom complet : TCHAMO Elinor
+description : tout d'abord on ouvre le projet dans intellijIDEA - on ouvre xampp ou tout autre boite a outil et on demarre appache et mysql-
+              on ouvre phpMyAdmin - on cree la bd avec les informations presentes dans application.propperties - on execute la class main 
+              
 #####################################################################################
