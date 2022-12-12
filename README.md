@@ -127,6 +127,10 @@ Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
+Login:jerry694(wafoaristide@gmail.com)
+Nom Complet: Wafo Kamgue Jerry Aristide ING3 ISI
+
+####################################################################################
 
 Login:@cecileaudree
 Nom Complet: DEUMENI NGALEU Cecile-Audree
@@ -160,7 +164,8 @@ Email: jordan.belom@institutsaintjean.org
 ####################################################################################
 Login: BenjaminTCHUETKA (benjamin.tchuetka@institutsaintjean.org)
 Nom complet: TCHUETKA YANKE Benjamin Rachid
-=======
+
+####################################################################################
 Login : Rabia2700
 
 Nom Complet : NGOUYAMSA NCHAH ALIMA RABIA
@@ -176,6 +181,7 @@ Description:  - Installer les dépendances
               - Utiliser l'application
 
 #####################################################################################
+
 login:ElinorTch(tchamoelii@gmail.com) nom complet : TCHAMO Elinor
 description : tout d'abord on ouvre le projet dans intellijIDEA - on ouvre xampp ou tout autre boite a outil et on demarre appache et mysql-
               on ouvre phpMyAdmin - on cree la bd avec les informations presentes dans application.propperties - on execute la class main 
