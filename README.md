@@ -127,3 +127,14 @@ Login:duplaisir(abigaelduplaisir@gmail.com)
 Nom Complet: Heukoua Ntantchou Abigael Duplaisir
 
 ####################################################################################
+
+
+Login:@cecileaudree
+Nom Complet: DEUMENI NGALEU Cecile-Audree
+Description: ouvrir le projet via un environnement
+             installer les dependances necessaires avec maeven
+             creer une nouvelle base de donne dans PHPmyadamin avec l'environemment de xampp ou wampp
+             executer le main
+
+####################################################################################
+
