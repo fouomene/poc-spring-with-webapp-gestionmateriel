@@ -23,9 +23,8 @@ git clone https://gitlab.com/fouomenedaniel/gestionmateriel.git
 
 **2. config in file application.propertie**
 
-# ==============================================================
-# = Data Source
-# ==============================================================
+Data Source
+
 spring.datasource.url = jdbc:mysql://localhost:3306/Your BdName?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
 spring.datasource.username = your username
 spring.datasource.password = your password
@@ -167,7 +166,8 @@ email : morganeangoc@gmail.com
 login : Hilarynyambon
 Nom Complet : NYAMBON Diane
 Email: hilarynyambonntamak@gmail.com
-=======
+
+######################################################################################
 
 Login : xtreme732+ma-contribution 
 
