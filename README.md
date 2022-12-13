@@ -90,6 +90,11 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+<<<<<<< HEAD
+#nom github et nom complet
+ Nom  github :emmauser
+ nom de complet:Fomekong Fosso Emmanuel 
+=======
 
 #####################################################################
 
@@ -201,3 +206,18 @@ Email: nanyaangbrice@gmail.com
 
 ####################################################################################
 
+>>>>>>> 2043be40f1b86adfe0de23b9db39306c53ea0f63
+
+
+login:emmauser
+nom complet: FOMEKONG FOSSO EMMANUEL
+Email: emmanuel.fomekong@institutsaintjean.org
+
+description:-installer les dépendances nécéssaires à l'aide de maven sur Intellijidea
+            -taper l'url :127.0.0.1:phpmyadmin pour acceder au server MySql
+             -Créer la base de donnée bdmateriel dans PHPmyAdmin à l'aide de  WAMPPserver
+             - Ouvrir Intellijidea et exécuter la classe qui contient le mail
+             -Utiliser l'application
+            
+
+####################################################################################
