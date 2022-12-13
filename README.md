@@ -234,3 +234,9 @@ Login:21bryan
 Nom complet:KOUAMO KEMAYOU bryan beauclaire
 
 ####################################################################################    
+
+Login       : FranckBG
+Nom complet : NKOMA BAYEMA FRANCK BRONDON
+EMAIL       : franck.nkoma@institutsaintjean.org
+
+#####################################################################################
