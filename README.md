@@ -91,6 +91,11 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 
+
+#nom github et nom complet
+ Nom  github :emmauser
+ nom de complet:Fomekong Fosso Emmanuel 
+
 #####################################################################
 
 login: Tagouffo21(tagouffovanessa@gmail.com)
@@ -158,12 +163,62 @@ Description : -installer dans le path maven les dependances necessaires
 #####################################################################################
 
 Login : mbel-jordan+ma-contribution 
-
 Nom Complet : belom jordan
-
 Email: jordan.belom@institutsaintjean.org
 
+###################################################################################
+
+Login : ArnoldKouyem
+
+Nom Complet : Kouyem Arnold Beroni
+
+Email: arnoldberonik@gmail.com
+description:-ouvrir le projet dans intellij
+                 -telecharger les dependances
+                 -se rendre dans le fichier application.properties
+                 -changer le port en mettant un port qui est ouvert sur notre machine 
+                  -ouvrir xampp ,demarrer apache et mySQL
+                -ouvrir PHPmyAdmin
+                 -creer une base de donnee avec le nom bdmateriel
+                -modifier le nom d'utilisateur et mot de passe de la BD dans le fichier application.properties 
+                -executer la class main
+
+####################################################################################
+Login : EmmanuelMDG+ma-contribution 
+
+Nom Complet : MINDONGO MBIA Emmanuel
+
+Email: mdg.m.emmanuel@gmail.com
+
+####################################################################################
+
+Login : xtreme732+ma-contribution 
+
+Nom Complet : Ngueutchoua Kadji Klan Alan
+
+Email: alan.ngueutchoua@institutsaintjean.org
+
+###################################################################################
+
+Login : NANYANG-BRICE 
+Nom Complet : NANYANG BRICE
+Email: nanyaangbrice@gmail.com
+
+####################################################################################
+
+login:emmauser
+nom complet: FOMEKONG FOSSO EMMANUEL
+Email: emmanuel.fomekong@institutsaintjean.org
+
+description:-installer les dépendances nécéssaires à l'aide de maven sur Intellijidea
+            -taper l'url :127.0.0.1:phpmyadmin pour acceder au server MySql
+             -Créer la base de donnée bdmateriel dans PHPmyAdmin à l'aide de  WAMPPserver
+             - Ouvrir Intellijidea et exécuter la classe qui contient le mail
+             -Utiliser l'application
+             
 ####################################################################################
 
 Login:21bryan
 Nom complet:KOUAMO KEMAYOU bryan beauclaire
+
+####################################################################################            
