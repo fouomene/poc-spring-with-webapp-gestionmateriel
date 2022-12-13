@@ -191,6 +191,14 @@ Nom Complet : MINDONGO MBIA Emmanuel
 Email: mdg.m.emmanuel@gmail.com
 
 ####################################################################################
+login : morganeangoc@gmail.com
+
+nom complet : Morgane Claudel Ango
+
+email : morganeangoc@gmail.com
+ inge 3 isi
+
+####################################################################################
 
 Login : xtreme732+ma-contribution 
 
