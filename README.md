@@ -233,4 +233,9 @@ description:-installer les dépendances nécéssaires à l'aide de maven sur Int
 Login:21bryan
 Nom complet:KOUAMO KEMAYOU bryan beauclaire
 
+####################################################################################  
+
+Login : YvanSake11
+Nom   : SAKE YVAN 
+
 ####################################################################################    
