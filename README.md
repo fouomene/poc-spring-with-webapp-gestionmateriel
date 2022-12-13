@@ -254,4 +254,11 @@ Nom   : SAKE YVAN
 Login : TakuNoundji
 Nom   : TAKU NOUNDJI GEDEON AURELIEN
 
+Login : Lejohnn+ma-contribution 
+
+####################################################################################
+Nom Complet : Sonkoue Jonathan
+
+Email: jonathan.sonkoue@institutsaintjean.org
+
 ####################################################################################
