@@ -158,10 +158,14 @@ Description : -installer dans le path maven les dependances necessaires
 #####################################################################################
 
 Login : mbel-jordan+ma-contribution 
-
 Nom Complet : belom jordan
-
 Email: jordan.belom@institutsaintjean.org
+
+####################################################################################
+
+Login : NANYANG-BRICE 
+Nom Complet : NANYANG BRICE
+Email: nanyaangbrice@gmail.com
 
 ####################################################################################
 
