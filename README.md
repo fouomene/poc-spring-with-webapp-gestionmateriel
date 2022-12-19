@@ -53,7 +53,9 @@ Show your appreciation to those who have contributed to the project.
 For open source projects, say how it is licensed.
 
 ## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely.
+Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make
+an explicit request for maintainers.
 
 
 #nom github et nom complet
@@ -80,7 +82,8 @@ Login : wilfried-djoum(wilfrieddjoum@gmail.com)
 Nom Complet : Djoum Nguemtchue Wilfried
 
 Description: installer dans le path maven - ensuite dans le projet , installer les dépendances nécessaires (lombock, spring mvc, tymeleaf) 
--creer la base de données du projet soit en invite de commande soit dans PHPmyAdmin -Faire merger les différebtes tables pour les creer dans la bd -enfin lancer l'application étans dans intellij 
+-creer la base de données du projet soit en invite de commande soit dans PHPmyAdmin -Faire merger les différebtes tables pour les creer 
+dans la bd -enfin lancer l'application étans dans intellij 
 soit en cliquant sur le boutton 'run' soit en invite de commande -Pour terminer : enjoy l'application de gestion de matériel
 
 #################################################################################
@@ -205,7 +208,12 @@ nom complet: MENGATA FRANCK LUTHER
 Email: franck.mengata@institutsaintjean.org   
 
 ####################################################################################    
+Login       : FranckBG
+Nom complet : NKOMA BAYEMA FRANCK BRONDON
+EMAIL       : franck.nkoma@institutsaintjean.org
 
+#####################################################################################
+=======
 Login : yann6182
 Nom   : TIENDJEU NGALEU YANNICK
 
@@ -226,3 +234,5 @@ Nom Complet : Sonkoue Jonathan
 Email: jonathan.sonkoue@institutsaintjean.org
 
 ####################################################################################
+
+
