@@ -1,13 +1,13 @@
 # GestionMateriel
 
-POC Spring CRUD
+POC Spring with WebApp Gestion Materiel which implements Spring Security , JWT, Spring Boot, DATA, Thymeleaf, Selenium, Cucumber, Gherkin , AOP, TDD
 
 # Spring Boot APP 
 
 
 ## Requirements
 
-1. Java - 1.8.x
+1. Java - 1.8.x or greater
 
 2. Maven - 3.x.x
 
@@ -16,7 +16,7 @@ POC Spring CRUD
 **1. Clone the application**
 
 ```bash
-git clone https://gitlab.com/fouomenedaniel/gestionmateriel.git
+https://github.com/fouomene/poc-spring-with-webapp-gestionmateriel.git
 ```
 
 **2. Build and run the app using maven**
@@ -34,7 +34,24 @@ mvn spring-boot:run
 ```
 
 The app will start running at <http://localhost:8282>.
+```bash
+http://localhost:8282
+```
+Default account
+```bash
+Login : test@test.com
+Password : test
+```
+Swagger OpenAPI definition
+```bash
+http://localhost:8282/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+```
 
+![alt text](https://fouomene.com/images/logingestionmat.jpg)
+
+![alt text](https://fouomene.com/images/dashboardgestionmat.jpg)
+
+![alt text](https://fouomene.com/images/apigesionmat.jpg)
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
 
