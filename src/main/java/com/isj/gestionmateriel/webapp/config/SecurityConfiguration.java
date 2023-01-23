@@ -1,7 +1,5 @@
 package com.isj.gestionmateriel.webapp.config;
 
-import javax.sql.DataSource;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
@@ -12,6 +10,8 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
+
+import javax.sql.DataSource;
 
 @Configuration
 @EnableWebSecurity
@@ -29,6 +29,13 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     @Value("${spring.queries.roles-query}")
     private String rolesQuery;
 
+    private final LoginSuccessHandler loginSuccessHandler;
+
+    public SecurityConfiguration(LoginSuccessHandler loginSuccessHandler) {
+        this.loginSuccessHandler = loginSuccessHandler;
+    }
+
+
     @Override
     protected void configure(AuthenticationManagerBuilder auth)
             throws Exception {
@@ -43,11 +50,10 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
 
-        http.
-                authorizeRequests()
+        http.authorizeRequests()
                 .antMatchers("/login").permitAll()
                 .antMatchers("/registration").permitAll()
-				.antMatchers("/calculator").permitAll()
+                .antMatchers("/calculator").permitAll()
                 .antMatchers("/api/**").permitAll()
                 .antMatchers("/v3/api-docs/**").permitAll()
                 .antMatchers("/swagger-ui/**").permitAll()
@@ -56,6 +62,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .anyRequest().authenticated().and().csrf().disable().formLogin()
                 .loginPage("/login").failureUrl("/login?error=true")
                 .defaultSuccessUrl("/listemateriels")
+                .successHandler(loginSuccessHandler)
                 .usernameParameter("email")
                 .passwordParameter("password")
                 .and().logout()
